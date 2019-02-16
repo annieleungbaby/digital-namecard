@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Leung;Annie;;;
+FN: Annie   Leung   
+ORG:Prudential Hong Kong Co. Ltd;
+TITLE:Senior Business Manager 資深業務經理
+EMAIL;type=INTERNET;type=WORK;type=pref:annie520ok@yahoo.com
+TEL;type=WORK;type=VOICE:+852 96569519
+item1.ADR;type=WORK;type=pref:;;\nHarbour City\;;;852;Hong Kong
+item1.X-ABADR:sg
+item2.URL;type=pref:https://www.prudential.com.hk
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
