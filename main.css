@@ -94,7 +94,7 @@ img.company-logo {
 	flex-shrink: 1;
 	margin: 0;
 	padding: 0.25rem;
-	max-width: 110%;
+	max-width: 100%;
 	max-height: 100%;
 	overflow: auto;
 }
@@ -126,7 +126,7 @@ img.company-logo {
 
 .col.is-6 {
 	flex: none;
-	width: 61%;
+	width: 62%;
 }
 
 .col.is-7 {
