@@ -84,7 +84,7 @@ img.company-logo {
 	margin-left: auto;
 	margin-right: auto;
 	object-fit: contain;
-	overflow: hidden;
+	overflow: auto;
 }
 
 .col {
